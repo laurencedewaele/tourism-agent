@@ -1,0 +1,22 @@
+[
+	{
+		"nom": "Randonnée camping en Lozère",
+		"dispos": ["202707", "202708", "202709"]
+	},
+	{
+		"nom": "5 étoiles à Chamonix option fondue",
+		"dispos": ["202612", "202701", "202702"]
+	},
+	{
+		"nom": "5 étoiles à Chamonix option ski",
+		"dispos": ["202701", "202702"]
+	},
+	{
+		"nom": "Palavas de paillotes en paillotes",
+		"dispos": ["202707", "202708", "202709"]
+	},
+	{
+		"nom": "5 étoiles en rase campagne",
+		"dispos": ["202703", "202704", "202705", "202706", "202707", "202708"]
+	}
+]
